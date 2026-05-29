@@ -1,0 +1,14 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Machine Learning models
+*.pkl
+*.joblib
+
+# System files
+.DS_Store
+Thumbs.db
